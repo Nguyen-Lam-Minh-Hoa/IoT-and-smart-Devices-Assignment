@@ -1,0 +1,1 @@
+This Tomato Dataset can be downloaded from: https://www.kaggle.com/datasets/sumn2u/riped-and-unriped-tomato-dataset
